@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KotlinNoteApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="do_you_have_already_account">Do you have already account?</string>
+    <string name="sign_in">Sign In!</string>
+    <string name="would_you_like_to_register">Would you like to register?</string>
+    <string name="click_here">Click Here!</string>
+    <string name="write_here">Write here!</string>
+    <string name="note_title">Note Title</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="log_out">Log Out</string>
+</resources>
